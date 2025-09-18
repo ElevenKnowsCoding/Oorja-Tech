@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oorja-tech.pages.dev/sitemap.xml
